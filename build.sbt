@@ -1,4 +1,4 @@
-name := "akka-quickstart-java"
+name := "akka-java"
 
 version := "1.0"
 
